@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/germolinal/test_rust_releases/compare/v2.0.0...v2.0.1) (2022-09-22)
+
+
+### Bug Fixes
+
+* some fix ([7bcec1c](https://github.com/germolinal/test_rust_releases/commit/7bcec1ca07b6b2006b4ab2e7400ffcf35a88a1bb))
+
 ## [2.0.0](https://github.com/germolinal/test_rust_releases/compare/v1.0.0...v2.0.0) (2022-09-22)
 
 
